@@ -1,0 +1,1 @@
+27749dd7c3eddd623db3cfbc7c7bfefe559847dec749dd65a37be965542edff9  ./target/wasm32-unknown-unknown/release/cw_721_base_starter.wasm
